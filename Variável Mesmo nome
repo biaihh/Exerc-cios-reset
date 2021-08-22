@@ -1,0 +1,5 @@
+nomeFulano = "Carlos"
+nomeBeltrano = "Maria"
+
+mesmoNome  =  ( nomeFulano  ==  nomeBeltrano )
+console.log (mesmoNome)
