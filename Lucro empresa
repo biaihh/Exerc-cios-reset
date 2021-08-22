@@ -1,0 +1,5 @@
+receitaLiquidaVendas = 1450.00
+custosDosProdutos = 890,00
+lucroBruto = receitaLiquidaVendas - custosDosProdutos
+margemBruta= (lucroBruto / receitaLiquidaVendas) * 100
+console.log (margemBruta)
