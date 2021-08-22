@@ -1,0 +1,8 @@
+notaA= 20
+notaB= 30
+notaC= 22
+notaD= 18
+notaE = 26
+
+notaDoAluno = (notaA + notaB + notaC + notaD + notaE) / 5
+console.log (notaDoAluno)
